@@ -1,1 +1,2 @@
 # helloworld.sh
+exit
